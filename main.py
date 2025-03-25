@@ -20,10 +20,10 @@ from telegram import Update
 from makefolderuser import MakeFolderUser
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes, MessageHandler, filters
 
-with open("token.txt") as f:
-    TOKEN = f.read()
+#with open("token.txt") as f:
+    #TOKEN = f.read()
 
-
+TOKEN = os.getenv('TELEGRAM_BOT_TOKEN')
 async def helped(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await context.bot.send_message(chat_id=update.effective_chat.id, text="Hi, Im the Analyse ClassSchool excel bot")
 
