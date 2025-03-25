@@ -1,0 +1,33 @@
+{
+  "message": {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "document": {
+      "file_name": "scolare.xls",
+      "mime_type": "application/vnd.ms-excel",
+      "file_id": "BQACAgQAAxkBAAMJZu0oqRKaKBweSCn-zK-mEu6GaJUAAisSAAIEs2hTdaoWfLQW_hk2BA",
+      "file_size": 59904,
+      "file_unique_id": "AgADKxIAAgSzaFM"
+    },
+    "group_chat_created": false,
+    "supergroup_chat_created": false,
+    "chat": {
+      "first_name": "Taha",
+      "id": 1851509530,
+      "last_name": "Yacine",
+      "type": "private",
+      "username": "Tahayacine1"
+    },
+    "date": 1726818473,
+    "message_id": 9,
+    "from": {
+      "first_name": "Taha",
+      "id": 1851509530,
+      "is_bot": false,
+      "language_code": "fr",
+      "last_name": "Yacine",
+      "username": "Tahayacine1"
+    }
+  },
+  "update_id": 502772242
+}
