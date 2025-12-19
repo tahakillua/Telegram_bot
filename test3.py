@@ -2,7 +2,7 @@ import pandas as pd
 from openpyxl import load_workbook
 
 # Path to the file
-path = "بوراس ياسين طه رضوان-الفصل الثاني.xlsx"
+path = "ب*******-الفصل الثاني.xlsx"
 
 # Constants
 EVALUATION = "معدل تقويم النشاطات /20"
